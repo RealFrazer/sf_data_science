@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Данные больше 100 мб
+Project-1\data\dst-3.0_16_1_hh_database.csv
